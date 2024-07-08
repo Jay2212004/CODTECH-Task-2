@@ -2,13 +2,13 @@ Name:Uchagaonkar Jay Sachin
 
 Company:CODTECH IT SOLUTIONS
 
-ID:62jfeh397
+ID:CT4CSEH2900
 
 Domain:Cyber Security & Ethical Hacking
 
-Duration:June 27,2024 to July 26,2024
+Duration:June 20,2024 to July 20,2024
 
-Mentor:S.K.Lahari
+Mentor:Neela Santhosh Kumar
 
 Overview of the project
 
