@@ -1,4 +1,7 @@
 #!/bin/bash
+# This script checks the reachability of a target host, scans for open ports and detects services running on them,
+# and checks for common web vulnerabilities by examining HTTP headers. It provides detailed feedback on open ports,
+# services detected, and potential web vulnerabilities found on the target host.
 check_host() {
     ping -c 1 $1 > /dev/null 2>&1
     if [ $? -eq 0 ]; then
